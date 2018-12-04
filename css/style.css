@@ -129,6 +129,22 @@ header a:hover{
     width: 90px;
 }
 
+/* Sidebar */
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+/* Main-col */
+article#main-col{
+    float: left;
+    width: 60%;
+    margin-top: 10px;
+    padding: 15px;
+}
+
 /* Footer */
 footer{
     padding: 20px;
